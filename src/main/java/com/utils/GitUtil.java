@@ -69,7 +69,7 @@ public class GitUtil {
      * git remote add 别名 远程地址
      *
      * 推送本地分支上的内容到远程仓库
-     * git push 别名 分支
+     * git push 别名 本地分支
      *
      * 将远程仓库的内容克隆到本地
      * git clone 远程地址
