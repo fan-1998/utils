@@ -23,6 +23,9 @@ public class GitUtil {
      * 添加到暂存区
      * git add 文件名
      *
+     * 一次性全部提交暂存区
+     * git add .
+     *
      * 提交到本地库
      * git commit -m "日志信息" 文件名
      *
