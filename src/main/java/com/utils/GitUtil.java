@@ -60,7 +60,7 @@ public class GitUtil {
      *  git commit -m "提交XXXXX"
      */
 
-    //远程仓库操作
+    //远程仓库操作 远程默认库名origin
     /**
      * 查看当前所有远程地址别名
      * git remote -v
